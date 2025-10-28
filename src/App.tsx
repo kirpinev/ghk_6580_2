@@ -71,10 +71,10 @@ export const App = () => {
             borderRadius: "16px",
           }}
         >
-          <img src={image9} alt="" height={35} />
           <Typography.Text view="primary-small">
             Кэшбэк 5% на продукты дополнительно уже в этом месяце
           </Typography.Text>
+          <img src={image9} alt="" height={35} />
         </div>
 
         <Gap size={40} />
